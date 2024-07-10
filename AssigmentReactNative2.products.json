@@ -1,0 +1,230 @@
+[{
+  "_id": {
+    "$oid": "66124e8cdfe2e6e017a18bad"
+  },
+  "image": [
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2Fanh3.png?alt=media&token=26305208-c51e-4f3f-9c3d-520023be6840",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2Fanh2.png?alt=media&token=02039cb1-6afd-4db4-9f06-5cf5bf9f0026",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2Fanh1.png?alt=media&token=956e51c6-baa6-49cd-908e-6686102031fb"
+  ],
+  "name": "Spider Plant",
+  "origin": "Châu Phi",
+  "status": 156,
+  "size": "Nhỏ",
+  "price": 250000,
+  "type": "Ưa bóng",
+  "createdAt": {
+    "$date": "2024-04-07T07:43:08.218Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T07:43:08.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661250a1dfe2e6e017a18baf"
+  },
+  "image": [
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FanhParasbag3.jpg?alt=media&token=62f0522e-051c-4832-a6f6-f83c80928243",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FanhParasbag2.jpg?alt=media&token=2878e157-603a-4801-8894-55764e2abbc2",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FanhParasbag.jpg?alt=media&token=0d840199-8f45-4afe-a9e7-22aa8f4979ad"
+  ],
+  "name": "Devil’s ivy",
+  "origin": "Châu Mỹ",
+  "status": 200,
+  "size": "Nhỏ",
+  "price": 300000,
+  "type": "Ưa bóng",
+  "createdAt": {
+    "$date": "2024-04-07T07:52:01.541Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T07:52:01.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66125135dfe2e6e017a18bb1"
+  },
+  "image": [
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FPink%20Anthurium3.jpg?alt=media&token=89311ed5-702a-4bbc-8057-f6f0ccd51396",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FPink%20Anthurium2.jpg?alt=media&token=a37fc813-0758-46d0-8659-50267fecc18b",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FPink%20Anthurium1.jpg?alt=media&token=45b16f0e-f7da-4c42-aae2-9ad85b832481"
+  ],
+  "name": "Pink Anthurium",
+  "origin": "Châu Mỹ",
+  "status": 150,
+  "size": "Lớn",
+  "price": 300000,
+  "type": "Ưa bóng",
+  "createdAt": {
+    "$date": "2024-04-07T07:54:29.104Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T07:54:29.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661253f8dfe2e6e017a18bb3"
+  },
+  "image": [
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FBlack%20Love%20Anthurium%20%203.jpg?alt=media&token=9ed87295-edb0-4258-9780-85c221db36f7",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FBlack%20Love%20Anthurium%20%202.jpg?alt=media&token=29a6d4e6-05d3-4cb8-9128-29f051462a62",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FBlack%20Love%20Anthurium%20%201.jpg?alt=media&token=5aa00873-048e-4317-ba47-4861683bd427"
+  ],
+  "name": "Pink Anthurium",
+  "origin": "Nam Mỹ",
+  "status": 175,
+  "size": "Nhỏ",
+  "price": 150000,
+  "type": "Ưa bóng",
+  "createdAt": {
+    "$date": "2024-04-07T08:06:16.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T08:06:16.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66125461dfe2e6e017a18bb5"
+  },
+  "image": [
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FZZ%20Plant%20%203.jpg?alt=media&token=1cf3a992-c169-449f-b1c7-28b5a448ca69",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FZZ%20Plant%20%202.jpg?alt=media&token=3e2c57f0-97f0-43f3-bb3a-688fcecc04bd",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FZZ%20Plant%20%201.jpg?alt=media&token=cd67ada8-2c6c-4bad-abba-69d8872ffb33"
+  ],
+  "name": "ZZ Plant",
+  "origin": "Châu Phi",
+  "status": 450,
+  "size": "Lớn",
+  "price": 165000,
+  "type": "Ưa bóng",
+  "createdAt": {
+    "$date": "2024-04-07T08:08:01.599Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T08:08:01.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661255a5dfe2e6e017a18bb7"
+  },
+  "image": [
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FPalm%203.jpg?alt=media&token=3a94ef9b-9181-44ed-9551-8ab86a113bfb",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FPalm%202.jpg?alt=media&token=b3488495-879e-495a-bc43-fc8d32b59a2e",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FPalm%201.jpg?alt=media&token=35476299-105b-4806-90d2-74c1aeb6d2f6"
+  ],
+  "name": "Palm",
+  "origin": "Trung Quốc",
+  "status": 254,
+  "size": "Nhỏ",
+  "price": 350000,
+  "type": "Ưa bóng",
+  "createdAt": {
+    "$date": "2024-04-07T08:13:25.666Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T08:13:25.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66125654dfe2e6e017a18bb9"
+  },
+  "image": [
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FGrey%20Star%20Calarthea%20%203.jpg?alt=media&token=142befce-9c13-4acd-97b3-7c3ad5d45345",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FGrey%20Star%20Calarthea%20%202.jpg?alt=media&token=8bda3b40-f301-4487-aa16-82150e8c916f",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FGrey%20Star%20Calarthea%20%20%201.jpg?alt=media&token=68ea1265-f96e-44ae-b9bc-186426332a0a"
+  ],
+  "name": "Grey Star Calarthea  ",
+  "origin": "Đại Tây Dương",
+  "status": 50,
+  "size": "Nhỏ",
+  "price": 350000,
+  "type": "Ưa sáng",
+  "createdAt": {
+    "$date": "2024-04-07T08:16:20.219Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T08:16:20.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661256f8dfe2e6e017a18bbb"
+  },
+  "image": [
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FBanana%20Plant%20%203.jpg?alt=media&token=e8e0b396-efe3-4c03-b58a-4f44547b16fa",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FBanana%20Plant%20%202.jpg?alt=media&token=fa660e2c-75e2-4f21-8014-204928254966",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FBanana%20Plant%20%201.jpg?alt=media&token=58f6417b-d135-4735-9634-3b6b3cb071e2"
+  ],
+  "name": "Banana Plant",
+  "origin": "Đông Nam Á",
+  "status": 545,
+  "size": "Nhỏ",
+  "price": 250000,
+  "type": "Ưa sáng",
+  "createdAt": {
+    "$date": "2024-04-07T08:19:04.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T08:19:04.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661257a7dfe2e6e017a18bbd"
+  },
+  "image": [
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FSago%20Palm%20%203.jpg?alt=media&token=84194787-1e30-495e-81ee-497a0f4e92a6",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FSago%20Palm%20%202.jpg?alt=media&token=1eb95ca7-f123-4e8b-8e67-2b44ddf21b90",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FSago%20Palm%20%201.jpg?alt=media&token=e41db632-5bcc-4af7-b58b-dd25b3405115"
+  ],
+  "name": "Sago Palm",
+  "origin": "Trung Quốc",
+  "status": 240,
+  "size": "Lớn",
+  "price": 300000,
+  "type": "Ưa sáng",
+  "createdAt": {
+    "$date": "2024-04-07T08:21:59.993Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T08:21:59.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6612580adfe2e6e017a18bbf"
+  },
+  "image": [
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FSong%20of%20India%20%203.jpg?alt=media&token=980118db-fb84-48f4-bfd9-127142563d47",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FSong%20of%20India%20%202.jpg?alt=media&token=dfc12997-1952-4595-8224-d250e9549e56",
+    "https://firebasestorage.googleapis.com/v0/b/imagereactnative.appspot.com/o/products%2FSong%20of%20India%20%201.jpg?alt=media&token=1233a04e-aa45-48fc-a9b5-b8172cfb0f36"
+  ],
+  "name": "Song of India",
+  "origin": "Ấn Độ",
+  "status": 157,
+  "size": "Nhỏ",
+  "price": 260000,
+  "type": "Ưa sáng",
+  "createdAt": {
+    "$date": "2024-04-07T08:23:38.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T08:23:38.114Z"
+  },
+  "__v": 0
+}]
