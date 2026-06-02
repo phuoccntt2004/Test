@@ -4,11 +4,13 @@ on:
   push:
     branches:
       - master
-
+  pull_request: 
+    branches:
+      - master
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
+    environment: aws
     steps:
     - name: Checkout Code
       uses: actions/checkout@v4
@@ -22,4 +24,4 @@ jobs:
 
     - name: Deploy files to S3 bucket
       run: |
-        aws s3 cp index.html s3://${{ secrets.AWS_S3_BUCKET }}
+        aws s3 cp index.html s3://${{ secrets.AWS_S3_BUCKET }}/index.html
